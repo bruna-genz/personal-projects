@@ -26,4 +26,4 @@ Links to the projects I done so far:
 
 - [Enumerable Methods](https://github.com/bruna-genz/enumerable-numbers).
 
--[Tic Tac Toe](https://github.com/bruna-genz/tic-tac-toe).
+- [Tic Tac Toe](https://github.com/bruna-genz/tic-tac-toe).
