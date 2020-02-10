@@ -27,3 +27,15 @@ Links to the projects I done so far:
 - [Enumerable Methods](https://github.com/bruna-genz/enumerable-numbers).
 
 - [Tic Tac Toe](https://github.com/bruna-genz/tic-tac-toe).
+
+### Ruby on Rails:
+
+- [Sample App](https://github.com/bruna-genz/sample-app).
+
+- [Re-former](https://github.com/bruna-genz/re-former).
+
+- [Members Only](https://github.com/bruna-genz/members-only) - [Live version](https://afternoon-depths-57944.herokuapp.com/posts).
+
+- [Private Events](https://github.com/bruna-genz/private-events) - [Live version](https://pure-brook-88318.herokuapp.com/).
+
+- [Facebook Clone](https://github.com/bruna-genz/facebook_clone) - [Live version](https://fb-clone-bruna-nico.herokuapp.com/contents/new).
