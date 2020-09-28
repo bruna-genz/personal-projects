@@ -39,3 +39,39 @@ Links to the projects I done so far:
 - [Private Events](https://github.com/bruna-genz/private-events) - [Live version](https://pure-brook-88318.herokuapp.com/).
 
 - [Facebook Clone](https://github.com/bruna-genz/facebook_clone) - [Live version](https://fb-clone-bruna-nico.herokuapp.com/contents/new).
+
+- [Capsule Wardrobe](https://github.com/bruna-genz/Capsule_Wardrobe) - [Live version](https://agile-sea-56583.herokuapp.com/).
+
+- [Bookstore API](https://github.com/bruna-genz/bookstore-redux-api).
+
+- [Mood Tracker API](https://github.com/bruna-genz/mood-tracker-api).
+
+### JavaScript:
+
+- [Calculator](https://github.com/bruna-genz/Calculator) - [Live version](https://rawcdn.githack.com/bruna-genz/Calculator/78d108584d7f7f1960ab8b1a95cd2f843ae86574/calculator.html).
+
+- [Forkify App](https://github.com/bruna-genz/forkify-app) (Based on tutorial).
+
+- [Library](https://github.com/bruna-genz/library) - [Live version](https://rawcdn.githack.com/bruna-genz/library/79416bab2f6701cba9949d3fddbe4e290aa840be/index.html).
+
+- [Restaurant Page](https://github.com/bruna-genz/restaurant-page) - [Live version](https://rawcdn.githack.com/bruna-genz/restaurant-page/c1bb64a31b0ef1b3cd526cdb5763871593bcc67d/dist/index.html).
+
+- [Tic-Tac-Toe](https://github.com/bruna-genz/Tic-Tac-Toe-JS) - [Live version](https://tictactoe-bruna.netlify.app/).
+
+- [ToDo List](https://github.com/bruna-genz/todo-list) - [Live version](https://supertodo.netlify.app/).
+
+- [Weather App](https://github.com/bruna-genz/weather-app) - [Live version](https://weather-app-by-bruna.netlify.app/).
+
+- [Space Burna](https://github.com/bruna-genz/space-burna) - [Live version](https://spaceburna.netlify.app/).
+
+### React/Redux:
+
+- [Calculator](https://github.com/bruna-genz/react-calc) - [Live version](https://react-calc-bruna.herokuapp.com/).
+
+- [Bookstore](https://github.com/bruna-genz/bookstore-redux) - [Live version](https://booky-redux.herokuapp.com).
+
+- [Worthy Work](https://github.com/bruna-genz/worthy_work) - [Live version](https://worthy-work.herokuapp.com/).
+
+- [OhMyMood!](https://github.com/bruna-genz/mood-tracker-client) - [Live version](https://ohmymood.herokuapp.com/).
+
+- [Portfolio](https://github.com/Brunei-Lab/react-portfolio) - [Live version](https://brunagenz.netlify.app/).
