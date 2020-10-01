@@ -1,6 +1,4 @@
-# My personal projects:
-
-Links to the projects I done so far:
+# Personal projects:
 
 #### HTML & CSS:
 
